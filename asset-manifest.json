@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-netflix-clone/static/css/main.a5bae28e.css",
+    "main.js": "/react-netflix-clone/static/js/main.30107e7a.js",
+    "index.html": "/react-netflix-clone/index.html",
+    "main.a5bae28e.css.map": "/react-netflix-clone/static/css/main.a5bae28e.css.map",
+    "main.30107e7a.js.map": "/react-netflix-clone/static/js/main.30107e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bae28e.css",
+    "static/js/main.30107e7a.js"
+  ]
+}
